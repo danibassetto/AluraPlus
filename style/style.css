@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("assets/people.png");
+    background-image: url("../assets/people.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
